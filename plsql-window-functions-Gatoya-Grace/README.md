@@ -81,7 +81,7 @@ Allocate more resources to the high-cost departments and monitor monthly fluctua
 5. Screenshots
 [AVG()QUERY.PNG](screenshotS/AVG()QUERY.PNG)
 [COST()QUERY.PNG](screenshots/COST()QUERY.PNG)
-[CUM_DIST QUERY.PNG](screenshots/CUM_DIST QUERY.PNG)
+[CUM_DISTQUERY.PNG](screenshots/CUM_DIST QUERY.PNG)
 [DENSE_RANKQUERY.PNG](screenshots/DENSE_RANKQUERY.PNG)
 [GROWTH%()QUERY.PNG](screenshots/GROWTH%()QUERY.PNG)
 [PERCENT_RANK QUERY.PNG](screenshots/PERCENT_RANK QUERY.PNG)
@@ -123,5 +123,6 @@ Any other relevant tutorial, article, or documentation
 
 
 Statement on Originality:
+
 
 “All sources were properly cited. Implementations and analysis represent original work. No AI generated content was copied without attribution or adaptation.”
